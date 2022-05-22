@@ -1,0 +1,152 @@
+.orange-highlight {
+  color: orange;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0px;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+  margin-top: 5px;
+
+}
+
+.heading-slice {
+  border-left: 5px solid tan;
+  border-image: linear-gradient(180deg, lightSalmon, tomato);
+  border-image-slice: 1;
+  margin-left: 10px;
+}
+#first {
+  margin-top: 15%;
+}
+.half-width img {
+  width: 100%;
+}
+
+section {
+  height: 500px;
+  padding-bottom: 180px;
+}
+h1 {
+  font-size: 50px;
+  line-height: 30px;
+  font-weight: 900;
+}
+h2 {
+  font-size: 40px;
+}
+p {
+  color: dimgray;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightSalmon, tomato);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+.part-2 {
+  display: inline-block;
+}
+.part-2 h1 {
+  text-align: center;
+}
+.photo-frame1 {
+  margin-left: 30px;
+  border: 0 none;
+  display: inline-block;
+  height: 400px;
+  max-width: 25%;
+  border-radius: 15px;
+  padding-left: 30px;
+}
+.background1 {
+  background-color: rgb(104, 24, 179);
+}
+
+.background2 {
+  background-color: rgb(96, 161, 96);
+}
+
+.background3 {
+  background-color: rgb(156, 93, 93);
+}
+.photo {
+  height: 200px;
+  width: 200px;
+}
+.photo-frame1 .photo img {
+  width: 100%;
+}
+.photo-deatail {
+  position: relative;
+  /* text-align: justify; */
+}
+.photo-deatail p {
+  color: black;
+}
+.photo-for-p3-p4 {
+  height: 400px;
+  width: 400px;
+}
+
+.half-width-p3 {
+  width: 40%;
+  float: left;
+  margin-left: 3%;
+  padding-left: 2%;
+  margin-top: 1%;
+}
+.half-width-p4 {
+  width: 40%;
+  float: left;
+  margin-left: 3%;
+  padding-left: 5%;
+  margin-top: 5px;
+}
+#four {
+  margin-bottom: 25%;
+  padding-bottom: 5%;
+}
+.part-4 {
+  margin-top: -10%;
+}
+
+.experience {
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 5px;
+  height: 86%;
+  background-color: white;
+}
+.part-5 {
+  margin-top: -10%;
+}
+.part-5 h1 {
+  text-align: center;
+}
+#five {
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, lightSalmon, tomato);
+  border-image-slice: 1;
+}
+
+.photo-p5 {
+  width: 40%;
+  float: left;
+  margin-left: 3%;
+  padding-left: 5%;
+  margin-top: -28%;
+}
+footer {
+  padding: 100px 0;
+  text-align: center;
+  background-color: black;
+  font-style: italic;
+  color: white;
+  height: 200px;
+}
